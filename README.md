@@ -112,7 +112,7 @@ This dashboard transforms student data into meaningful insights, helping schools
 
 ## 👨‍💻 Author
 
-**Harsh**
+**Harsh Maradiya**
 
 ---
 ⭐ Built using Microsoft Power BI
