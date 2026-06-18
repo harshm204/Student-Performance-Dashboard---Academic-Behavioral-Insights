@@ -103,4 +103,16 @@ Tracks and analyzes student behavior patterns.
 This dashboard transforms student data into meaningful insights, helping schools make informed decisions about academic performance, attendance, and student behavior.
 
 ---
+
+### 📷 Dashboard Preview
+
+**Main Dashboard | Student Analysis | Behavioral Analysis**
+
+---
+
+## 👨‍💻 Author
+
+**Harsh**
+
+---
 ⭐ Built using Microsoft Power BI
